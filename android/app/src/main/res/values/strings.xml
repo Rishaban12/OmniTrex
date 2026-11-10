@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quick_add">Add expense</string>
+    <string name="dolist_widget_desc">Today\'s to-dos with start and end times</string>
+</resources>

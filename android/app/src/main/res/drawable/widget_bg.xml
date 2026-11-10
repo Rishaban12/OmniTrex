@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DoList widget box: soft cream card over the user's wallpaper. -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="#EBFBF8F3" />
+    <corners android:radius="24dp" />
+</shape>
